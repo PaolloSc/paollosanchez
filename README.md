@@ -53,9 +53,9 @@ Tenho foco em unir o mundo jurídico com tecnologia — automação de workflows
 
 <div align="center">
 
-![Paollo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaolloSc&cache_seconds=1800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=B0BEC5)
+![Paollo's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaolloSc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=B0BEC5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolloSc&cache_seconds=1800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=B0BEC5)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PaolloSc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=B0BEC5)
 
 </div>
 
